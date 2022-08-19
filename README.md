@@ -9,7 +9,7 @@ Allure
 Был выбран метод POST, ссылка: https://petstore.swagger.io/#/user/createUser 
  
 ## Структура проекта  
- https://github.com/mikhail-97/Test__API/issues/1#issue-1344427093
+![Tree](https://user-images.githubusercontent.com/75842400/185626854-805155bb-b005-47b3-9124-7caedd6bac3b.PNG)
 Проект был написан с применением следующих технологий: Java, Maven, Rest Assured в программной среде IntelliJ IDEA. 
  
 ### Запуск тестов 
