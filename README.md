@@ -1,5 +1,5 @@
 # Test__API
-Написать API - автотесты для сайта https://petstore.swagger.io/ по одному методу из любых блоков (GET,PUT,POST,DELETE).
+Написать API - автотесты для API https://petstore.swagger.io/.
 Был выбран метод POST, ссылка: https://petstore.swagger.io/#/user/createUser 
  
 ## Структура проекта  
